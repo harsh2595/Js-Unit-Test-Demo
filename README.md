@@ -69,11 +69,11 @@ After running:
 
 npm run test:coverage
 
-![Test Coverage Report](test-coverage-report.png)
-![Test Coverage Report On Browser](test-report-on-browser.png)
+![Test Coverage Report](./test-coverage-report.png)
+![Test Coverage Report On Browser](./test-report-on-browser.png)
 
 Jest will generate a coverage report in the coverage/ folder. You can open coverage/lcov-report/index.html in your browser to view a detailed breakdown.
 
-![Test Output](test-output.png)
+![Test Output](./test-output.png)
 
 Author : Harsh Kashyap
